@@ -75,7 +75,7 @@ echo $red "976-095"
 sleep 1
 echo $red "579-416"
 sleep 1
-echo $green "553-732 [BERHASIL]"
+echo $red "553-732"
 sleep 1
 echo $red "729-427"
 sleep 1
